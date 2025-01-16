@@ -1,4 +1,4 @@
-# Shopify AI Customer Service Integration
+# Shopify AI Assistant
 
 A Node.js application that combines Shopify's API with OpenAI to provide intelligent order lookup and natural language responses to customer inquiries. This integration helps automate customer service by extracting order information from customer messages and providing both structured data and human-like responses.
 
